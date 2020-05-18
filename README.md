@@ -1,5 +1,5 @@
 # STUDIOS
-### By Neema Shiramba
+### By Asule Jonathan
 #### 20/2/2020
 
 ## Description
@@ -142,7 +142,7 @@ If you find any issues in the code feel free to [click here](https://neema-bmb.g
 I used:
 HTML, Bootstrap, CSS, jQuery & Javascript.
 
-### Contact me on: neemashiramba@gmail.com
+### Contact me on asulejona@gmail.com
 I encourage anyone who has any contribution to make to this code to improve it do so. 
 Live link:https://neema-bmb.github.io/Delani/
 
