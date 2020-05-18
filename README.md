@@ -135,9 +135,6 @@ The final part of the page is to name and the year it was published.
                 <P>2020</P>
             </div>
 ```
-### Known Bugs
-If you find any issues in the code feel free to [click here](https://neema-bmb.github.io/Delani/)
-
 ### Technologies Used
 I used:
 HTML, Bootstrap, CSS, jQuery & Javascript.
